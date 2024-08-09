@@ -14,7 +14,11 @@ function Team() {
         <div className="text-white space-y-4">
           <h2 className="text-4xl font-bold">About Us</h2>
           <p className="text-lg">
-            Initiators of Change is a national award-winning non-profit charitable organisation working on leadership development, education for all, social-political awareness of youth and disaster management in the states of Punjab and Delhi. Started with a team of four in 2015 in Ludhiana, IOC has now impacted lacs of young lives across the country by engaging over 3000 volunteers in several projects.
+          Welcome to Initiators of Change, where Punjab's youth are driving dynamic and impactful change. Since our
+establishmentin 2015, we've been on a mission to cultivate a new generation of people who are socially active
+and aware.Join us in our mission to drive change and
+empower others through education. At Initiators of Change, there's a place for everyone who shares our vision
+of a world where everyone has the opportunity to thrive. Together, let's build a betterfuture for all.
           </p>
         </div>
       </div>
