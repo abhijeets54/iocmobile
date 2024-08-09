@@ -5,7 +5,11 @@ const images = [
   '35.jpg',
   '20.jpg',
   '34.jpg',
-  '36.jpg'
+  '36.jpg',
+  '37.jpg',
+  '38.JPG',
+  '39.jpg',
+  '40.jpg'
 ];
 
 function Slideshow() {

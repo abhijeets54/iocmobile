@@ -13,7 +13,7 @@ function Team() {
       <div className="w-full md:w-1/2 bg-teal-700 flex items-center p-8">
         <div className="text-white space-y-4">
           <h2 className="text-4xl font-bold">About Us</h2>
-          <p className="text-lg">
+          <p className="text-xl">
           Welcome to Initiators of Change, where Punjab's youth are driving dynamic and impactful change. Since our
 establishment in 2015, we've been on a mission to cultivate a new generation of people who are socially active
 and aware.Join us in our mission to drive change and
