@@ -15,10 +15,10 @@ function Team() {
           <h2 className="text-4xl font-bold">About Us</h2>
           <p className="text-lg">
           Welcome to Initiators of Change, where Punjab's youth are driving dynamic and impactful change. Since our
-establishmentin 2015, we've been on a mission to cultivate a new generation of people who are socially active
+establishment in 2015, we've been on a mission to cultivate a new generation of people who are socially active
 and aware.Join us in our mission to drive change and
 empower others through education. At Initiators of Change, there's a place for everyone who shares our vision
-of a world where everyone has the opportunity to thrive. Together, let's build a betterfuture for all.
+of a world where everyone has the opportunity to thrive. Together, let's build a better future for all.
           </p>
         </div>
       </div>
