@@ -15,7 +15,7 @@ function Prodetail() {
           <img src="/img/13.jpg" alt="Awareness Projects" className="w-1/2 h-60 object-cover" /> {/* Increased image height */}
         </div>
         <h3 className="text-2xl font-semibold mt-6 mb-6 text-center">Project Usaari</h3> {/* Increased font size and margin */}
-      <p className='text-center px-3'>Education is the mostlife-changing gift one can provide. Team IOC took charge of supporting children who
+      <p className='text-center px-3 text-lg'>Education is the mostlife-changing gift one can provide. Team IOC took charge of supporting children who
 aspire to be something big by funding their entire education expenses for a lifetime. The project helped them
 focus more on their studies, as the students have shown excellent academic results. From the past 2 years,
 Team IOC has been running a free evening school for more than 50 underprivileged students with the help of 3
@@ -38,7 +38,7 @@ our school. </p></div>
         </div>
         
         <h3 className="text-2xl mt-6 mb-6 font-semibold text-center">Project Saanjh</h3> {/* Increased font size and margin */}
-        <p className='text-center py-5 px-3'>Project Saanjh, an initiative focused on mental health awareness, aims to help individuals navigate their mental health challenges. This project provides resources, support, and educational programs to promote mental well-being. There’s always been a taboo attached to mental health in Indian culture. To eliminate this and spread
+        <p className='text-center py-5 px-3 text-lg'>Project Saanjh, an initiative focused on mental health awareness, aims to help individuals navigate their mental health challenges. This project provides resources, support, and educational programs to promote mental well-being. There’s always been a taboo attached to mental health in Indian culture. To eliminate this and spread
 awareness,the IOC started Project SAANJH. The main motive behind this project was to let people know the
 importance of mental health. Underthis project,the team conducted MANN MELA in remote areas with the
 help of physiologists, spreading the message thattaking therapy isnt a crime but rather is necessary for one's
